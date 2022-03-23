@@ -1,0 +1,21 @@
+{
+    "name": "coding-sniper/mysql-backup",
+    "description": "A PHP package for easily creating  database back ups.",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "free",
+    "autoload": {
+        "psr-4": {
+            "CodingSniper\\MysqlBackup\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mutuku-daniel",
+            "email": "daniel.mutuku404@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
